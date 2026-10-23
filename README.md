@@ -14,6 +14,7 @@ All GIFs are 340x340, 12 fps, loop forever, and are under 1.4 MB.
 | rybot_done.gif | Done / sorted / shipped (dusts hands + victory spin) |
 | rybot_shrug.gif | No idea / out of my hands / "it is what it is" |
 | rybot_celebrate.gif | Big win / release out / test passed |
+| rybot_bencat.gif | bencat: for Ben Ludlam, new topic (RyBot + orange cat typing furiously) |
 
 ## Sending in Teams
 - The proven route is the one the cat GIF already uses: `--body '<div><img src="https://PUBLIC_URL/rybot_x.gif" width="280"></div>'`. This needs the GIF hosted at a public https URL.
